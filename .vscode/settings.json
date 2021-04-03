@@ -70,6 +70,11 @@
         "ratio": "cpp",
         "__memory": "cpp",
         "iomanip": "cpp",
-        "stack": "cpp"
+        "stack": "cpp",
+        "list": "cpp",
+        "__tree": "cpp",
+        "charconv": "cpp",
+        "map": "cpp",
+        "set": "cpp"
     }
 }
